@@ -3,3 +3,5 @@
 
     // This variable is my name
     $variable = "Name";
+
+    // This is a comment
